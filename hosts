@@ -19,15 +19,8 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-# Custom host records are listed here.
-
-
-# End of custom host records.
-# Start StevenBlack
-
 #=====================================
-# Title: Hosts contributed by Steven Black
-# http://stevenblack.com
 
 0.0.0.0 trace.mediago.io
 0.0.0.0 aka.ms-ads.co
+0.0.0.0 adclick.g.doubleclick.net
